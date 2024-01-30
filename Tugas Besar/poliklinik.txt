@@ -1,0 +1,28 @@
+Kode: 1
+Nama: Umum
+Biaya: 50000
+
+Kode: 2
+Nama: Gigi
+Biaya: 100000
+
+Kode: 3
+Nama: Penyakit Dalam
+Biaya: 150000
+
+Kode: 4
+Nama: Jantung
+Biaya: 500000
+
+Kode: 5
+Nama: Psikologi
+Biaya: 100000
+
+Kode: 6
+Nama: Syaraf
+Biaya: 200000
+
+Kode: 7
+Nama: Anak
+Biaya: 50000
+

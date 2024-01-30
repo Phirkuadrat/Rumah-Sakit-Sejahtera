@@ -1,0 +1,70 @@
+Kode: 1
+Nama: Andre Pratama
+Spesialis: Umum
+Poliklinik: Umum
+
+Kode: 2
+Nama: Budi Santoso
+Spesialis: Gigi
+Poliklinik: Gigi
+
+Kode: 3
+Nama: Cindy Amelia
+Spesialis: Jantung
+Poliklinik: Jantung
+
+Kode: 4
+Nama: Deni Purnomo
+Spesialis: Psikologi
+Poliklinik: Psikologi
+
+Kode: 5
+Nama: Fajri Ramadhan
+Spesialis: Umum
+Poliklinik: Umum
+
+Kode: 6
+Nama: Galih Prabowo
+Spesialis: Gigi
+Poliklinik: Gigi
+
+Kode: 7
+Nama: Hadianto Wibowo
+Spesialis: Jantung
+Poliklinik: Jantung
+
+Kode: 8
+Nama: Ika Pratiwi
+Spesialis: Psikologi
+Poliklinik: Psikologi
+
+Kode: 9
+Nama: Joko Susanto
+Spesialis: Anak
+Poliklinik: Anak
+
+Kode: 10
+Nama: Krisna Wijaya
+Spesialis: Umum
+Poliklinik: Umum
+
+Kode: 11
+Nama: Lita Dewi
+Spesialis: Gigi
+Poliklinik: Gigi
+
+Kode: 12
+Nama: Mario Setiawan
+Spesialis: Jantung
+Poliklinik: Jantung
+
+Kode: 13
+Nama: Nisa Fitriani
+Spesialis: Psikologi
+Poliklinik: Psikologi
+
+Kode: 14
+Nama: Oki Rahmawati
+Spesialis: Anak
+Poliklinik: Anak
+
